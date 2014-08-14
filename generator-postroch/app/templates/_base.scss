@@ -1,0 +1,13 @@
+html{
+	height: 100%;
+}
+a{
+	color: black;
+	-webkit-transition: all 300ms ease-in-out;
+    -moz-transition: all 300ms ease-in-out;
+    -o-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+    &:hover, &:focus, &:active{
+    	color: red
+    }
+}

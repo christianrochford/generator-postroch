@@ -1,0 +1,60 @@
+{
+  "name": "generator-postroch",
+  "version": "1.0.0",
+  "description": "Front-End generator for website development using Foundation-3, Sass, CSS-autoprefix, JS uglify, image optimisation and live reload",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/christianrochford/generator-postroch"
+  },
+  "author": {
+    "name": "Christian Rochford",
+    "email": "rochfordchristian@gmail.com",
+    "url": "https://github.com/christianrochford"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "foundation",
+    "compass",
+    "autoprefixer",
+    "imagemin",
+    "concat",
+    "uglify",
+    "jshint",
+    "clean",
+    "connect",
+    "livereload"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.16.0",
+    "chalk": "~0.4.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/christianrochford/generator-postroch/issues"
+  },
+  "homepage": "https://github.com/christianrochford/generator-postroch",
+  "_id": "generator-postroch@1.0.0",
+  "dist": {
+    "shasum": "bf505203e1709e7cb91b243971e956214a8b5c38"
+  },
+  "_from": "generator-postroch@",
+  "_resolved": "https://registry.npmjs.org/generator-postroch/-/generator-postroch-1.0.0.tgz"
+}
